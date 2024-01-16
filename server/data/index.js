@@ -55,6 +55,7 @@ export const users = [
     location: "Canada, CA",
     occupation: "Data Scientist Hacker",
     viewedProfile: 45468,
+    
     impressions: 19986,
     createdAt: 1288090662,
     updatedAt: 1288090662,
